@@ -15,13 +15,3 @@ Here are some screenshot.
 
 ## Requirements
 Python >= 3.9.
-
-## Quick Install
-```shell
-pip install -r requirements.txt
-```
-## Run
-Run the following command in the terminal, then you will get the app's link opened in the browser.
-```shell
-streamlit run Home.py
-```
